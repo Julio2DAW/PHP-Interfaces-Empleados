@@ -8,7 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Visualizar Empleados</title>
     <link rel="stylesheet" href="css/estilos.css" />
-    <link rel="stylesheet" href="css/reset.css" />
   </head>
   <body>
     <header>
