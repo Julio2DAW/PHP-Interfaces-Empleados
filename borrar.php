@@ -11,21 +11,21 @@
   </head>
   <body>
     <header>
-      <p>asfdafsg</p>
+      <p>Eliminar Empleados</p>
     </header>
     <nav>
-      <p>fhhsfhs</p>
+      <p>Menú Horizontal</p>
     </nav>
     <main>
       <aside>
-        <p>gdhgashgd</p>
+        <p>Menú Vertical</p>
       </aside>
       <article>
         <p>gfhasgfkgsig</p>
       </article>
     </main>
     <footer>
-      <p>dfyqwt</p>
+      <p>Footer</p>
     </footer>
   </body>
 </html>

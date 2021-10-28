@@ -6,26 +6,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="author" content="Julio Antonio Ramos Gago" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Visualizar Empleados</title>
+    <title>Listar Empleados</title>
     <link rel="stylesheet" href="css/estilos.css" />
   </head>
   <body>
     <header>
-      <p>asfdafsg</p>
+      <p>Listado de Empleados</p>
     </header>
     <nav>
-      <p>fhhsfhs</p>
+      <p>Menú Horizontal</p>
     </nav>
     <main>
       <aside>
-        <p>gdhgashgd</p>
+        <p>Menú Vertical</p>
       </aside>
       <article>
         <p>gfhasgfkgsig</p>
       </article>
     </main>
     <footer>
-      <p>dfyqwt</p>
+      <p>Footer</p>
     </footer>
   </body>
 </html>
